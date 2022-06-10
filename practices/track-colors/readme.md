@@ -17,7 +17,7 @@
 
 ---
 
-O objeto desse programa é identificar as cores vermelho, azul e amarelo, com um range mínimo e máximo das 3 cores a serem identificadas, através da webcam. Dessa forma, podemos rastrear diferentes níveis de intensidade das cores definidas.
+O objetivo desse programa é identificar as cores vermelho, azul e amarelo, com um range mínimo e máximo das 3 cores a serem identificadas, através da webcam. Dessa forma, podemos rastrear diferentes níveis de intensidade das cores definidas.
 
 ## Resultados
 
