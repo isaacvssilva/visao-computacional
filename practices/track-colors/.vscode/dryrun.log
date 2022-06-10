@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/isaac/Desktop/identificacao-cores'
+g++ -I /usr/include/opencv4 -g -lc -o bin/app src/main.cpp -lopencv_highgui -lopencv_core -lopencv_imgcodecs -lopencv_imgproc -lopencv_videoio -std=c++11
+./bin/app
+make: Leaving directory '/home/isaac/Desktop/identificacao-cores'
+ 
