@@ -1,6 +1,6 @@
 # Mini projeto de visão computacional
 
-## Identificando cores em tempo real em C++ (Track colors)
+## Identificando cores em tempo real com C++ (Track colors)
 
 ### Configurações
 
