@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Fri Jun 10 17:27:05 2022
+# Make data base, printed on Sat Jun 11 20:48:39 2022
 
 # Variables
 
@@ -23,7 +23,7 @@ SSH_AGENT_LAUNCHER = gnome-keyring
 # environment
 GJS_DEBUG_OUTPUT = stderr
 # environment
-VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-ab9fa691-36b3-49e5-9b62-8a02828ddd4f.sock
+VSCODE_IPC_HOOK_EXTHOST = /run/user/1000/vscode-ipc-518e9f3f-86f6-4c20-b9bf-dcffba73acb3.sock
 # environment
 MANDATORY_PATH = /usr/share/gconf/pop.mandatory.path
 # environment
@@ -41,7 +41,7 @@ VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 # default
 .VARIABLES := 
 # environment
-PWD = /home/isaac/Desktop/identificacao-cores
+PWD = /home/isaac/Desktop/track-colors
 # automatic
 %D = $(patsubst %/,%,$(dir $%))
 # environment
@@ -65,7 +65,7 @@ XAUTHORITY = /run/user/1000/gdm/Xauthority
 # makefile
 MAKEFLAGS = pqrR
 # makefile
-CURDIR := /home/isaac/Desktop/identificacao-cores
+CURDIR := /home/isaac/Desktop/track-colors
 # environment
 VSCODE_PIPE_LOGGING = true
 # environment
@@ -93,13 +93,13 @@ MAKEFILE_LIST := Makefile
 # environment
 VSCODE_VERBOSE_LOGGING = true
 # environment
-VSCODE_PID = 4739
+VSCODE_PID = 9042
 # environment
 XDG_SESSION_TYPE = x11
 # automatic
 ?D = $(patsubst %/,%,$(dir $?))
 # environment
-SESSION_MANAGER = local/pop-os:@/tmp/.ICE-unix/2255,unix/pop-os:/tmp/.ICE-unix/2255
+SESSION_MANAGER = local/pop-os:@/tmp/.ICE-unix/1694,unix/pop-os:/tmp/.ICE-unix/1694
 # automatic
 *F = $(notdir $*)
 # environment
@@ -135,7 +135,7 @@ MAKEFILES :=
 # automatic
 ^F = $(notdir $^)
 # environment
-INVOCATION_ID = 5596e0eb7caa4076b76230543d1c4d4f
+INVOCATION_ID = 5de33990cc6146999c0a06ab3a6c451a
 # makefile (from 'Makefile', line 2)
 OPENCV = -I /usr/include/opencv4 -g
 # environment
@@ -167,7 +167,7 @@ GIO_LAUNCHED_DESKTOP_FILE = /usr/share/applications/code.desktop
 # makefile
 .DEFAULT_GOAL := main
 # environment
-SYSTEMD_EXEC_PID = 2274
+SYSTEMD_EXEC_PID = 1713
 # environment
 DISPLAY = :1
 # environment
@@ -179,9 +179,9 @@ DEFAULTS_PATH = /usr/share/gconf/pop.default.path
 # default
 MAKE_VERSION := 4.3
 # environment
-MANAGERPID = 2002
+MANAGERPID = 1465
 # environment
-GIO_LAUNCHED_DESKTOP_FILE_PID = 4739
+GIO_LAUNCHED_DESKTOP_FILE_PID = 9042
 # environment
 _ = /usr/share/code/code
 # makefile (from 'Makefile', line 4)
@@ -193,7 +193,7 @@ CFLAGS = -lopencv_highgui -lopencv_core -lopencv_imgcodecs -lopencv_imgproc -lop
 # environment
 GPG_AGENT_INFO = /run/user/1000/gnupg/S.gpg-agent:0:1
 # environment
-JOURNAL_STREAM = 8:38865
+JOURNAL_STREAM = 8:33515
 # environment
 XDG_SESSION_CLASS = user
 # environment
@@ -283,7 +283,6 @@ main: src/main.cpp
 # files hash-table stats:
 # Load=7/1024=1%, Rehash=0, Collisions=0/18=0%
 # VPATH Search Paths
- 
 
 # No 'vpath' search paths.
 
@@ -294,7 +293,8 @@ main: src/main.cpp
 
 # strcache performance: lookups = 22 / hit rate = 27%
 # hash-table stats:
+ 
 # Load=16/8192=0%, Rehash=0, Collisions=0/22=0%
-# Finished Make data base on Fri Jun 10 17:27:05 2022
+# Finished Make data base on Sat Jun 11 20:48:39 2022
 
  

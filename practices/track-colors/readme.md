@@ -25,8 +25,6 @@ O objetivo desse programa é identificar as cores vermelho, azul e amarelo, com 
 
 ![2](img/img2.png)
 
-![3](img/img3.png)
-
 Execução do programa:
 
 ```sh
