@@ -43,4 +43,4 @@ deletar binário:
 make clean
 ```
 
-Inspiração do prejeto [aqui](https://suzana-svm.medium.com/vis%C3%A3o-computacional-detec%C3%A7%C3%A3o-de-cores-em-tempo-real-utilizando-python-e-opencv-a466444d40e).
+Inspiração do projeto [aqui](https://suzana-svm.medium.com/vis%C3%A3o-computacional-detec%C3%A7%C3%A3o-de-cores-em-tempo-real-utilizando-python-e-opencv-a466444d40e).
